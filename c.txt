@@ -1,0 +1,4 @@
+onux.method Shell.run("mkdir -p Onux");
+onux.profile script;
+onux.method File.create("text.txt");
+onux.utils CheckDate(312);
